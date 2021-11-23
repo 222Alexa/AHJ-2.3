@@ -71,3 +71,6 @@
 
 
 Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через CI.
+
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/e452ukwvk0jbh9b4/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-2-3/branch/main)
